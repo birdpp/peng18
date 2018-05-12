@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>张鹏的主页</title>
+		<!--<link rel="shortcut icon" href="img/favicon.ico">-->
+		<link rel="shortcut icon" href="img/favicon.ico" />
+		<link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">
+		<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+		<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<!-- 可选的 Bootstrap 主题文件（一般不用引入） -->
+		<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="css/index.css" />
+	</head>
+
+	<body>
+		
+		<div class="loading-cont">
+			
+			<img src="img/01af1f568cd3796ac725bb5c8fdd8e.gif"/>
+			
+		</div>
+		
+		<div class="cont">
+
+			<div class="container-fluid">
+				<section class="sec1">
+					<div class="row">
+						<div class="col-sm-12">
+							<div class="box">
+
+								<div class="title-cont">
+									<h2>欢迎您访问我的主页</h2>
+									<p>幸会，我是张鹏<br />———</p>
+									<p>一名前端开发工程师。打造一款成功的产品离不开持之以恒的照料，能成为你的搭档创造出别具一格的作品，我倍感荣幸。<br />———</p>
+									<p>我能效劳<br />———</p>
+									<p>前端开发，模块化开发，MVVM模式开发，利用各种技巧实现交互丰富的界面。</p>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</section>
+
+				<section class="list-cont">
+					<div class="row">
+
+						<div class="box lxList">
+								<div class="col-xs-4">
+
+									<div class="list-text">
+										<i class="fa fa-weibo"></i>
+									</div>
+
+								</div>
+								<div class="col-xs-4">
+									<div class="list-text">
+										<img src="img/zhihu.png" />
+									</div>
+								</div>
+								<div class="col-xs-4">
+									<div class="list-text">
+										<i class="fa fa-github"></i>
+									</div>
+								</div>
+								<div class="col-xs-4">
+									<div class="list-text">
+										<i class="fa fa-envelope-o"></i>
+										<br />
+										<span>zzgpeng@163.com</span>
+									</div>
+								</div>
+								<div class="col-xs-4">
+									<div class="list-text">
+										<i class="fa fa-qq"></i>
+										<br />
+										<span>310962250</span>
+									</div>
+								</div>
+								<div class="col-xs-4">
+									<div class="list-text">
+										<i class="fa fa-wechat"></i>
+										<br />
+										<span>p310962250</span>
+									</div>
+								</div>
+
+						</div>
+					</div>
+				</section>
+
+				<section class="sec3cont">
+					<div class="row">
+						<div class="sec3">
+							<div class="col-sm-4 left">
+								
+								<div class="left-box">
+									<h2>MY RESUME</h2>
+									<p>
+										网站版本的简历上线不到两个月，百度搜索“前端工程师简历，前端简历”排名前十。获得好多小伙伴评论点赞(*^▽^*)
+									</p>
+									<a class="btn btn-skin m-top30" href="JavaScript:;" target="_blank" disabled="disabled">前程无忧版本点击查看</a>
+									<a class="btn btn-skin m-top30" href="" target="_blank"> 网站版本点击查看 </a>
+								</div>
+								
+							</div>
+							<div class="col-sm-8 right">
+								
+							</div>
+						</div>
+					</div>
+				</section>
+				
+				<section class="sec3cont">
+					<div class="row">
+						<div class="sec3 sec4">
+							<div class="col-sm-4 left sec4left">
+								
+								
+								
+							</div>
+							<div class="col-sm-8 right sec4right">
+								
+								<div class="left-box">
+									<h2>MY BLOG</h2>
+									<p>
+										WEB前端工程师——张鹏的前端之路，对知识过滤与积累，记录学习笔记与心得
+									</p>
+									<a class="btn btn-skin m-top30" href="" target="_blank">  Polaris的博客点击查看  </a>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				</section>
+
+
+			</div>
+			
+			<div class="footer">
+			<p>
+				  	欢迎您，您是本站的第<span>889</span>个小伙伴
+			</p>
+			<p>
+					本站总访问量<span>1100</span>次
+			</p>
+			<p>
+					© 2018 Polaris
+			</p>
+		</div>
+		</div>
+		
+		
+		
+		<script src="js/jquery-1.11.0.js" type="text/javascript" charset="utf-8"></script>
+		<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+		<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script src="js/index.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>
